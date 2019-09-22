@@ -10,7 +10,7 @@
         Test web ui.
     </Description>
     <GitHub>https://github.com/SkippyTheSnake/webui</GitHub>
-    <Repository>skippythesnake/webui</Repository>
+    <Repository>https://github.com/SkippyTheSnake/Webui</Repository>
     <Support>https://github.com/SkippyTheSnake/webui</Support>
     <BindTime>true</BindTime>
     <Privileged>false</Privileged>
