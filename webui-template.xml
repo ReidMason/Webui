@@ -9,7 +9,6 @@
     <Description>
         Test web ui.
     </Description>
-    <Registry>https://registry.hub.docker.com/u/skippythesnake/webui</Registry>
     <GitHub>https://github.com/SkippyTheSnake/webui</GitHub>
     <Repository>skippythesnake/webui</Repository>
     <Support>https://github.com/SkippyTheSnake/webui</Support>
